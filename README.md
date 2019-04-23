@@ -8,3 +8,8 @@ category and design using convoluted neural network.It's a data set that contain
 
 
 Please go through the Jupyter notebook attched for furthure details, The heading are sufficient enough to walk you through the code briefly.
+
+
+The data set is of 70,000 images.
+
+data source :https://research.zalando.com/welcome/mission/research-projects/fashion-mnist/
